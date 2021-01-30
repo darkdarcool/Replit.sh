@@ -9,7 +9,7 @@ If you follow [@replit](https://twitter.com/replit) on Twitter, you may have rea
 ## Getting Setup
 1. Setting Up Your Repl
 	1. Press the `run on repl.it` button below to clone the repository and install the packages:
-[![Run on Repl.it](https://repl.it/badge/github/pieromqwerty/Replit.sh)](https://github.com/pieromqwerty/Replit.sh)
+[![Run on Repl.it](https://repl.it/badge/github/pieromqwerty/Replit.sh)](https://github.com/darkdarcool/Replit.sh)
 	2. After running your repl, go to to `line 11` in `main.py` and replace `https://replit.sh/` with the url your repl is being served to.
 	3. Replace `Replit.sh` on `line 12` with the name of your site.
 2. Setting Up Your Users
